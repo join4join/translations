@@ -2,7 +2,7 @@
     "title": "Join4Join • Gagne des membres gratuitement et rapidement sur Discord",
     "history": "Historique",
     "coins": "coins",
-    "no_history": "Looks like you have no history to display here",
+    "no_history": "Aucun historique a afficher ici",
 
     "buy": "Buy",
     "farm": "Farm",
@@ -58,14 +58,14 @@
     "on": "ON",
     "off": "OFF",
     "farm_description": "FARM DES SERVEURS POUR GAGNER DES COINS: (%rate% coins / serveur)",
-    "click_confirm": "By clicking on a server you allow the bot to add you to the server.",
-    "server_warning": "WARNING! If you leave a server before 4 days is up you will lose %loss% coins.",
-    "autofarm_description": "Auto-farm will automatically join servers when new adverts are purchased and earn you coins. Activate or deactivate auto-farm with the button below.",
+    "click_confirm": "En cliquant sur le serveur tu autorises le bot a te rajouter au serveur.",
+    "server_warning": "ATTENTION! Si tu quittes avant d'attendre 4j tu vas perdre %loss% coins.",
+    "autofarm_description": "Auto-farm te fera rejoindre automatiquement les serveurs pour gagner plus de coins. Active ou desactive le systeme d'auto farm en cliquant sur le bouton ci dessous.",
     "autofarm": "AUTO-FARM",
-    "no_servers": "Looks like there are no more servers to farm at the moment! Come back later...",
-    "succesfully_farmed": "Succesfully farmed server!",
+    "no_servers": "Apparemment il n'y a plus de serveurs a rejoindre pour le moment! Reviens plus tard...",
+    "succesfully_farmed": "Serveur farm avec succes!",
 
     "check_description": "Tu peux quitter ces serveurs sans perdre de coins:",
     "check_warning": "En cliquant sur le serveur tu autorises le bot a te retirer du serveur. (Si le bot a les permissions qui le permet! Si tu n'es pas automatiquement retiré, tu pourras le faire manuellement sur le serveur.)",
-    "no_leave": "Looks like there are no servers you can leave at the moment! You can safely leave servers after 4 days."
+    "no_leave": "Apparemment tu ne peux pas quitter de serveurs pour le moment! Tu peux quitter les serveurs apres 4jours."
 }
