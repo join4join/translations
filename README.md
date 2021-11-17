@@ -9,9 +9,10 @@ If you wish to help translate Join4Join, please firstly ensure you meet the foll
 # Steps
 To contribute please follow this guide:
 - Fork this repository (at https://github.com/join4join/translations/fork) so you have a private copy
-- If you are adding a new language, copy + paste English.json in to a new file called `<The name of the language you're translating to, in your language>.json`.
+- If you are adding a new language, copy + paste English.json in to a new file called `<The name of the language you're translating to, in English>.json`.
 - If you are editing a already existing language just edit the file then commit your changes
 - Change the translations on the right of the key, e.g. `"description": "Join4Join is the best website to get members for your discord server! Farm coins and buy members."`, you would edit the text on the right hand side in quotation marks, description needs to stay as it is the key.
 - Make sure you keep the capitalisation the same (e.g. if a word is in all capitals, in the translations, keep it in all capitals)
 - If there is text inside %% DO NOT CHANGE IT! This is where messages from the website are placed.
+- In the `lang_name` parameter put the name of your language in it's language
 - Finally, you can open a pull request from your fork and it will be reviewed, thanks for wanting to contribute!
