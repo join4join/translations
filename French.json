@@ -23,7 +23,7 @@
     "support": "Rejoins notre serveur support",
     "help": "aide",
     "footer_title": "JOIN 4 JOIN BOT - LE MEILLEUR BOT POUR GAGNER PLEIN DE MEMBRES SUR DISCORD!",
-    "footer_description": "Get thousand of members and grow your server very fast with this j4j bot ! Finish now to advertise, bump, do partners to get members. This bot allow you to get members quickly. Farm servers to get a lot of coins and buy your members",
+    "footer_description": "Obtenez des milliers de membres et développez votre serveur très rapidement avec ce bot j4j ! Fini maintenant de faire de la publicité, des bumps, des partenariats pour obtenir des membres. Ce bot vous permet d'obtenir des membres rapidement. Rejoins des serveurs pour obtenir beaucoup de coins et acheter des membres",
     "footer_buy": "BUY: achete une publicité pour gagner plein de membres.",
     "footer_farm": "FARM: farm des serveurs pour gagner plein de coins.",
     "footer_check": "CHECK: verifie les serveurs pour voir si tu peux les quitter sans perdre de coins.",
@@ -34,7 +34,7 @@
 
     "joining_server": "A rejoint un serveur Discord.",
     "leave_refund": "Remboursement pour les membres ayant quitté le serveur avant 4 jours.",
-    "leave_loss": "Leaving server before 4 days.",
+    "leave_loss": "A quitté le serveur avant 4 jours.",
     "purchinag_advert": "Achat d'une publicité pour le serveur %server%",
     "bump_server": "Bump le serveur support",
 
@@ -71,5 +71,5 @@
     "check_description": "Tu peux quitter ces serveurs sans perdre de coins:",
     "check_warning": "En cliquant sur le serveur tu autorises le bot a te retirer du serveur. (Si le bot a les permissions qui le permet! Si tu n'es pas automatiquement retiré, tu pourras le faire manuellement sur le serveur.)",
     "no_leave": "Apparemment tu ne peux pas quitter de serveurs pour le moment! Tu peux quitter les serveurs apres 4jours.",
-    "check_success": "Succesfully removed you from server!"
+    "check_success": "Tu as été retiré du serveur avec succes!"
 }
