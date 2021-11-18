@@ -34,6 +34,7 @@
 
     "joining_server": "Joining Discord Server.",
     "leave_refund": "Refund for member leaving within 4 days.",
+    "leave_loss": "Leaving server before 4 days.",
     "purchinag_advert": "Purchasing advert for %server%",
     "bump_server": "Bumping the support server",
 
