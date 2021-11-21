@@ -71,5 +71,6 @@
     "check_description": "Tu peux quitter ces serveurs sans perdre de coins:",
     "check_warning": "En cliquant sur le serveur tu autorises le bot a te retirer du serveur. (Si le bot a les permissions qui le permet! Si tu n'es pas automatiquement retiré, tu pourras le faire manuellement sur le serveur.)",
     "no_leave": "Apparemment tu ne peux pas quitter de serveurs pour le moment! Tu peux quitter les serveurs apres 4jours.",
-    "check_success": "Tu as été retiré du serveur avec succes!"
+    "check_success": "Tu as été retiré du serveur avec succes!",
+    "remaining_coins" : "Coins restant"
 }
