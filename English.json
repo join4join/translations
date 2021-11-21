@@ -71,5 +71,6 @@
     "check_description": "You can leave these servers without losing coins:",
     "check_warning": "By clicking on a server you allow the bot to remove you from the server. (If the bot's permissions/position allow that! If you don't get removed you will have to manually leave the server.)",
     "no_leave": "Looks like there are no servers you can leave at the moment! You can safely leave servers after 4 days.",
-    "check_success": "Succesfully removed you from server!"
+    "check_success": "Succesfully removed you from server!",
+    "remaining_coins" : "Coins remaining"
 }
