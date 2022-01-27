@@ -86,5 +86,7 @@
   "error_unknow_guild" : "Error Unknow guild",
   "error_guild_suspended" : "Error Guild has been suspended : %REASON%",
 
-  "error_500" : "500 - Backend Error Occured"
+  "error_500" : "500 - Backend Error Occured",
+
+  "notify_ads_ended" : "Your ads for community %NAME% is done !"
 }
